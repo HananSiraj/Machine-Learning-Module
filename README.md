@@ -44,14 +44,14 @@ A hypothesis test was conducted at a significance level of 0.05 to determine if 
 https://drive.google.com/drive/folders/18rpobr58R_e8zrp26Nk1ievYmhHB7_kT?usp=sharing
 
 This project is mainly dealing with data preprocessing to enhance the quality and usability of datasets for machine learning applications. By addressing issues like missing values, outliers, and inconsistent formatting, we are trying to improve data integrity and analysis outcomes.The main steps in this project are:
-## Data Exploration:
+#### Data Exploration:
 Understand dataset structure, identify unique values, and perform basic statistical analysis
-## Data Cleaning:
+#### Data Cleaning:
 Handle missing values, remove duplicates, and address outliers
-## Data Analysis:
+####Data Analysis:
 Filter and visualize data based on specific criteria.
-## Data Encoding:
+#### Data Encoding:
 Convert categorical variables into numerical representations.
-## Feature Scaling:
+#### Feature Scaling:
 Standardize or normalize feature values for improved model performance.
  
